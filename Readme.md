@@ -12,4 +12,4 @@ To run my application you simply need to clone the project and run the html file
 
 
 ## Screenshot
-![calcscreen](calculator.png.png)
+![calcscreen](Calculator.png)
